@@ -24,7 +24,7 @@ Functions designed to perform decomposition, evaluation, and visualization tasks
 
 *   fmatrix.m
 
-    The core code for performing OPNMF-based behavioral data dimension reduction (factor decomposition) and evaluation.
+    The core code for conducting OPNMF-based behavioral data dimensionality reduction (factor decomposition) and evaluation (also allowing the use of classical methods such as PAF and PCA).
 
 *   plot\_fmatrix.m
 
